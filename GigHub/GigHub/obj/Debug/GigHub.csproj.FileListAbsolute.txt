@@ -110,3 +110,4 @@ D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialDatabase.r
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.cache
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
+D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
