@@ -101,7 +101,6 @@ D:\STUDY\.NET\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
 D:\STUDY\.NET\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\STUDY\.NET\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
 D:\STUDY\.NET\GigHub\GigHub\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.csprojAssemblyReference.cache
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.CoreCompileInputs.cache
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.CopyComplete
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.dll
@@ -112,3 +111,4 @@ D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.re
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
 D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.addmigrationAddForeignKeyPropertiesToGig.resources
+D:\STUDY\.NET\GigHub\GigHub\GigHub\obj\Debug\GigHub.csprojAssemblyReference.cache
